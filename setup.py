@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-DISTNAME = 'xesmf'
+DISTNAME = "pangeo-xesmf"
 DESCRIPTION = "Universal Regridder for Geospatial Data"
 AUTHOR = 'Jiawei Zhuang'
 AUTHOR_EMAIL = 'jiaweizhuang@g.harvard.edu'
