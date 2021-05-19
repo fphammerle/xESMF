@@ -21,7 +21,7 @@ if on_rtd:
     INSTALL_REQUIRES = []
 else:
     INSTALL_REQUIRES = [
-        'esmpy>=8.0.0',
+        'esmpy',
         'xarray>=0.16.2',
         'numpy>=1.16',
         'shapely',
